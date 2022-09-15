@@ -57,7 +57,7 @@ def afk(update, context):
     fname = update.effective_user.first_name
     try:
         Shikimori = update.effective_message.reply_text(
-            "*{}* is now AFK! GoodBye!".format(fname), parse_mode=ParseMode.MARKDOWN)
+            "*{}* Nibba/nibbi is now AFK! GoodBye!".format(fname), parse_mode=ParseMode.MARKDOWN)
         time.sleep(5)
         try:
             Shikimori.delete()
@@ -83,7 +83,7 @@ def no_longer_afk(update, context):
         firstname = update.effective_user.first_name
         try:
              Shikimori = message.reply_text(
-                "*{}* is back in the chat!\nCame back after: `{}`".format(firstname, end_afk_time), parse_mode=ParseMode.MARKDOWN)
+                "*{}* wasting time in bkchodi!\nCame back after: `{}`".format(firstname, end_afk_time), parse_mode=ParseMode.MARKDOWN)
              time.sleep(5)
              try:
                  Shikimori.delete()
