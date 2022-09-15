@@ -38,8 +38,8 @@ from Shikimori.ex_plugins.dbfunctions import (
 from Shikimori.utils.filter_groups import karma_negative_group, karma_positive_group
 from Shikimori.core.decorators.errors import capture_err
 
-regex_upvote = r"^((?i)\+|\+\+|\+1|thx|thanx|thanks|pro|cool|good|pro|pero|op|nice|noice|best|uwu|owo|right|correct|peru|piro|👍)$"
-regex_downvote = r"^(\-|\-\-|\-1|👎|noob|baka|idiot|chutiya|nub|noob|wrong|incorrect|chaprii|chapri|weak)$"
+regex_upvote = r"^((?i)\+|\+\+|\+1|thx|thanx|thanks|pro|cool|good|pro|wah|plus|ty|pero|op|nice|noice|best|uwu|owo|right|correct|peru|piro|👍)$"
+regex_downvote = r"^(\-|\-\-|\-1|👎|noob|baka|idiot|chutiya|lodu|nibbo|hat|nub|noob|wrong|incorrect|chaprii|chapri|weak)$"
 
 
 
