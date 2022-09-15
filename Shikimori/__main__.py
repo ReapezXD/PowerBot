@@ -196,27 +196,27 @@ def main():
                 msg = dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 photo=ALIVE_MEDIA,
-                caption="👋 Hi, i'm alive.",
+                caption="Hlw, I'm not ded.",
                 parse_mode=ParseMode.MARKDOWN
                 )
             elif alive_id in ("mp4", "mkv"):
                 msg = dispatcher.bot.send_video(
                 f"@{SUPPORT_CHAT}",
                 ALIVE_MEDIA,
-                caption="👋 Hi, i'm alive.",
+                caption="Hlw, I'm not ded.",
                 parse_mode=ParseMode.MARKDOWN
                 )
             elif alive_id in ("gif", "webp"):
                 msg = dispatcher.bot.send_animation(
                 f"@{SUPPORT_CHAT}",
                 ALIVE_MEDIA,
-                caption="👋 Hi, i'm alive.",
+                caption="Hlw, I'm not ded.",
                 parse_mode=ParseMode.MARKDOWN
                 )
             else:
                 msg = dispatcher.bot.send_message(
                 f"@{SUPPORT_CHAT}",
-                "👋 Hi, i'm alive.",
+                "Hlw, I'm not ded.",
                 parse_mode=ParseMode.MARKDOWN
                 )
             time.sleep(15)
