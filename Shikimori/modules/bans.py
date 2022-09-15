@@ -85,7 +85,7 @@ def ban(update: Update, context: CallbackContext) -> str:
     if message.reply_to_message and message.reply_to_message.sender_chat:
         r = bot.ban_chat_sender_chat(chat_id=chat.id, sender_chat_id=message.reply_to_message.sender_chat.id)
         if r:
-            message.reply_text("Channel {} was banned successfully from {}".format(
+            message.reply_text("Channel {} nibba/nibbi was banned successfully from {}".format(
                 html.escape(message.reply_to_message.sender_chat.title),
                 html.escape(chat.title)
             ),
@@ -108,7 +108,7 @@ def ban(update: Update, context: CallbackContext) -> str:
         message.reply_text("Can't seem to find this person.")
         return log_message
     if user_id == bot.id:
-        message.reply_text("Oh yeah, ban myself, noob!")
+        message.reply_text("No vro u can't do this🙂")
         return log_message
 
     if is_user_ban_protected(chat, user_id, member) and user not in DEV_USERS:
@@ -352,7 +352,7 @@ def unbanb_btn(update: Update, context: CallbackContext) -> str:
         if not is_user_admin(chat, int(user.id)):
             bot.answer_callback_query(
                 query.id,
-                text="⚠️ You don't have enough rights to delete this message.",
+                text="⚠️ Your budget is low vro.",
                 show_alert=True,
             )
             return ""
