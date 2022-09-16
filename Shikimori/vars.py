@@ -188,12 +188,10 @@ PM_START_TEXT = """
 Hᴇʟʟᴏᴡ *✨ {} ✨*
 
 *🥀My name is Power! I'm a Blood Fiend Devil who works in Public Safety Devil Hunter.*
-───────────────
-⚜ᴜᴘᴛɪᴍᴇ: `{}`
-⚜ᴄʜᴀᴛs: `{}`
-⚜ᴜsᴇʀs: `{}`
-───────────────
+────────────────
 *🍁ᴜsᴇ /help ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴍᴅs.*
+────────────────
+*👇ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴛᴏᴜᴄʜ ᴍʏ ʙxxʙs.*
 """
 
 HELP_STRINGS = """
