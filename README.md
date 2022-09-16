@@ -1,42 +1,4 @@
-![Shikimori](https://telegra.ph/file/d0c1cd93423c66c099b48.jpg)
-
-<h2 align="center">
-    ──「 SHIKIMORI IS A MODULAR BOT WITH ANIME THEME 」──
-</h2>
-
-<p align="center">
-  <a href="https://github.com/SOME-1HING/ShikimoriBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
-  <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
-  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-  <a href="https://github.com/SOME-1HING/ShikimoriBot"> <img src="https://img.shields.io/badge/Maintained-Yes-lightgrey?style=for-the-badge" alt="Maintenance" /> </a>
-</p>
-
-<h2 align="center">
-    ──「 DOCUMENTATION 」──
-</h2>
-
-<p align="center">
-<p align="center"><a href="https://some1hing.gitbook.io/shikimori-bot/"> <img src="https://img.shields.io/badge/DOCUMENTATION-grey?style=for-the-badge&logo=gitbook" width="220" height="38.45"/></a>
-</p>
-
-<h2 align="center">
-    ──「 SUPPORT 」──
-</h2>
-
-<p align="center">
-<a href= "https://t.me/micchon_shikimori_bot"> <img src="https://img.shields.io/badge/Shikimori-Bot-green?style=for-the-badge&logo=telegram" alt=Yor_Forger on Telegram" /> </a>
-<a href= "https://t.me/tyranteyeeee"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/SOME1_HING"> <img src="https://img.shields.io/badge/SOME1HING-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
-</p>
-
-<h2 align="center">
-    ──「 CREDIT 」──
-</h2>
-
-<p align="center">
-<a href="https://github.com/SOME-1HING"> <img src="https://img.shields.io/badge/SOME1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME-1HING Github" /> </a>
-<a href="https://github.com/asadali32117"> <img src="https://img.shields.io/badge/asadali32117-Github-magenta?style=for-the-badge&logo=github" alt="Ryu120 Github" /> </a>
-</p>
+![Power](https://telegra.ph/file/32853efdaf2e6d1ace4c9.jpg)
 
 ## How to setup/deploy.
 
@@ -54,7 +16,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <h2 align="center">
-    ──「 DEPLOY ON HEROKU 」──
+    ── ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏ ──
 </h2>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SOME-1HING/ShikimoriBot/tree/Stable-v1.3"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
